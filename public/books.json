@@ -1,0 +1,40 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "No Longer Human",
+            "pages": 176,
+            "description": "Portraying himself as a failure, the protagonist of Osamu Dazai's No Longer Human narrates a seemingly normal life even while he feels himself incapable of understanding human beings. Oba Yozo's attempts to reconcile himself to the world around him begin in early childhood, continue through high school, where he becomes a 'clown' to mask his alienation, and eventually lead to a failed suicide attempt as an adult. Without sentimentality, he records the casual cruelties of life and its fleeting moments of human connection and tenderness."
+        },
+        {
+            "id": 2,
+            "title": "The Setting Sun",
+            "pages": 174,
+            "description": "Set in the early postwar years, it probes the destructive effects of war and the transition from a feudal Japan to an industrial society. Ozamu Dazai died, a suicide, in 1948. But the influence of his book has made 'people of the setting sun' a permanent part of the Japanese language, and his heroine, Kazuko, a young aristocrat who deliberately abandons her class, a symbol of the anomie which pervades so much of the modern world."
+        },
+        {
+            "id": 3,
+            "title": "Schoolgirl",
+            "pages": 103,
+            "description": "Osamu Dazai's 1939 novella depicts a day in the life of a Tokyo schoolgirl. Propelling Dazai into the literary elite of post-war Japan, Schoolgirl gained notoriety for its ironic and inventive use of language. Now it illuminates the prevalent social structures of a lost time, as well as the struggle of the individual against 'them' -- a theme that occupied Dazai's life both personally and professionally. This new translation preserves the playful language of the original and offers the reader a new window into the mind of one of the greatest Japanese authors of the 20th century."
+        },
+        {
+            "id": 4,
+            "title": "Goodbye",
+            "pages": 36,
+            "description": "The war is over and life is returning to normal. A man must say goodbye to his ten or so lovers. However, he can't do this alone, he needs the help of a special but difficult woman."
+        },
+        {
+            "id": 5,
+            "title": "One Hundred Views of Mount Fuji",
+            "pages": 128,
+            "description": "Osamu Dazai, in this compilation of his fairy tale stories, which contain tales of love, compassion, self-sacrifice, friendship and many other humane feelings, unlike his novels in which he tells the unfortunate fate of his country that has been turned upside down, and the sad human landscapes, he presents much more positive emotions and situations in a witty and clear manner. speaks language. In a way, Dazai seems to atone for the devastated, devastated and desperate lives he committed in his novels, with his optimism in his stories."
+        },
+        {
+            "id": 6,
+            "title": "Return to Tsugaru",
+            "pages": 236,
+            "description": ""
+        }
+    ]
+}
